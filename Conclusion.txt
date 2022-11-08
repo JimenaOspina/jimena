@@ -1,1 +1,4 @@
 Hare un pequeño resumen de lo aprendido en el submodulo 
+yo he aprendido a ver el estado de mis archivos 
+hacer commit
+tambien para adicionar los archivos

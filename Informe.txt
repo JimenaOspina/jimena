@@ -1,1 +1,7 @@
 Hoy realizaremos la ultima practica git para continuar con python
+abrimos desde la carpeta la aplicacion git bash here que nos lleva directamente al repositorio y de ahi inicializamos con git init 
+despues pusimos git status para ver el estado 
+luego nos mostraba que teniamos que adicionar 
+luego hicmimos un commit con git commit
+y ya de ahi pusimos ultima practica con git
+y despues apresionamos esc y la flecha y los puntos
